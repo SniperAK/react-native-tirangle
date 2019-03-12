@@ -1,0 +1,11 @@
+{
+  "name": "react-native-triangle-view",
+  "version": "1.0.0",
+  "description": "Draw Trangle View using pure javascript into React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SniperAK",
+  "license": "ISC"
+}
